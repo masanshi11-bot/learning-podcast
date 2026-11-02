@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Mon, 02 Nov 2026 05:57:16 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 05:57:18 GMT</lastBuildDate>
+  <item>
+    <title>第3课 科技：AI大模型到底是怎么思考的</title>
+    <description>第三课，科技。AI大模型到底是怎么思考的。  你好，欢迎回到认知提升课。前两课我们讲了复利和比特币，今天换个方向，聊聊这几年最火的技术，AI大模型。你可能每天都在用各种AI聊天助手，但它到底是怎么回答问题的？它真的会思考吗？今天花十分钟，把这件事讲明白。  先说最核心的一句话。大模型本质上只做一件事…</description>
+    <itunes:summary>第三课，科技。AI大模型到底是怎么思考的。  你好，欢迎回到认知提升课。前两课我们讲了复利和比特币，今天换个方向，聊聊这几年最火的技术，AI大模型。你可能每天都在用各种AI聊天助手，但它到底是怎么回答问题的？它真的会思考吗？今天花十分钟，把这件事讲明白。  先说最核心的一句话。大模型本质上只做一件事…</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep003.mp3" length="4361223" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep003</guid>
+    <pubDate>Mon, 02 Nov 2026 05:57:21 GMT</pubDate>
+    <itunes:duration>00:09:05</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第2课 区块链：比特币到底解决了什么问题</title>
     <description>你好，欢迎回到认知提升课。今天是第二课，我们换个主题，聊区块链。你可能经常听到比特币、区块链这些词，有人说它是未来的货币，有人说它是泡沫。今天我们先不讨论价格，而是回到最根本的问题：比特币到底解决了什么问题？弄懂了这一点，以后再看相关的新闻，你就有了自己的判断框架。  核心观点是：比特币解决的是一个…</description>
