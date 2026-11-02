@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>认知提升课</title>
+  <link>https://masanshi11-bot.github.io/learning-podcast/</link>
+  <atom:link href="https://masanshi11-bot.github.io/learning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>每节约10分钟：投资金融、区块链、科技、人生规划、健康饮食、身体锻炼、英语学习，长期复利提升认知。</description>
+  <language>zh-cn</language>
+  <itunes:author>Sanshi</itunes:author>
+  <itunes:owner><itunes:name>Sanshi</itunes:name></itunes:owner>
+  <itunes:image href="https://masanshi11-bot.github.io/learning-podcast/cover.jpg"/>
+  <image><url>https://masanshi11-bot.github.io/learning-podcast/cover.jpg</url><title>认知提升课</title><link>https://masanshi11-bot.github.io/learning-podcast/</link></image>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>serial</itunes:type>
+  <itunes:block>yes</itunes:block>
+  <lastBuildDate>Mon, 02 Nov 2026 05:56:47 GMT</lastBuildDate>
+  <item>
+    <title>第1课 投资金融：复利，世界第八大奇迹</title>
+    <description>你好，欢迎来到认知提升课。我是你的学习伙伴。今天是第一课，我们从投资金融里最重要、也最容易被低估的一个概念讲起，那就是复利。爱因斯坦有没有真的说过“复利是世界第八大奇迹”，其实没有可靠的出处，但这句话能流传这么广，说明大家都隐约感觉到，复利的力量非常惊人。今天这十分钟，我们就把它彻底讲明白。  先说…</description>
+    <itunes:summary>你好，欢迎来到认知提升课。我是你的学习伙伴。今天是第一课，我们从投资金融里最重要、也最容易被低估的一个概念讲起，那就是复利。爱因斯坦有没有真的说过“复利是世界第八大奇迹”，其实没有可靠的出处，但这句话能流传这么广，说明大家都隐约感觉到，复利的力量非常惊人。今天这十分钟，我们就把它彻底讲明白。  先说…</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep001.mp3" length="3526408" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep001</guid>
+    <pubDate>Mon, 02 Nov 2026 05:56:48 GMT</pubDate>
+    <itunes:duration>00:07:21</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
