@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Mon, 02 Nov 2026 22:42:09 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 22:42:55 GMT</lastBuildDate>
+  <item>
+    <title>第5课 健康饮食：能量、质量与可坚持的习惯</title>
+    <description>健康饮食靠能量平衡、食物质量，以及蛋白质与纤维习惯，胜过追风潮的极端吃法。</description>
+    <itunes:summary>健康饮食靠能量平衡、食物质量，以及蛋白质与纤维习惯，胜过追风潮的极端吃法。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep005.mp3" length="4702798" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep005</guid>
+    <pubDate>Mon, 02 Nov 2026 22:43:00 GMT</pubDate>
+    <itunes:duration>00:09:48</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第4课 人生规划：用思维模型做重要决策</title>
     <description>好的人生决策靠框架不是靠感觉：期望值、机会成本、二阶效应、可逆性、基础比率、事前验尸与能力圈。</description>
