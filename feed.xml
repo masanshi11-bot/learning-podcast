@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Mon, 02 Nov 2026 05:57:18 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 22:42:09 GMT</lastBuildDate>
+  <item>
+    <title>第4课 人生规划：用思维模型做重要决策</title>
+    <description>好的人生决策靠框架不是靠感觉：期望值、机会成本、二阶效应、可逆性、基础比率、事前验尸与能力圈。</description>
+    <itunes:summary>好的人生决策靠框架不是靠感觉：期望值、机会成本、二阶效应、可逆性、基础比率、事前验尸与能力圈。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep004.mp3" length="4939528" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep004</guid>
+    <pubDate>Mon, 02 Nov 2026 22:42:13 GMT</pubDate>
+    <itunes:duration>00:10:17</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第3课 科技：AI大模型到底是怎么思考的</title>
     <description>第三课，科技。AI大模型到底是怎么思考的。  你好，欢迎回到认知提升课。前两课我们讲了复利和比特币，今天换个方向，聊聊这几年最火的技术，AI大模型。你可能每天都在用各种AI聊天助手，但它到底是怎么回答问题的？它真的会思考吗？今天花十分钟，把这件事讲明白。  先说最核心的一句话。大模型本质上只做一件事…</description>
