@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Mon, 02 Nov 2026 22:42:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 22:32:53 GMT</lastBuildDate>
+  <item>
+    <title>第6课 身体锻炼：搭一套能坚持一辈子的运动框架</title>
+    <description>世卫组织每周150–300分钟中等强度有氧加两天力量训练的基准；谈话测试与主观用力感觉判断强度；渐进超负荷、恢复与肌少症；最低标准与习惯设计；今天的小行动：快走十分钟并做一次基线测试。</description>
+    <itunes:summary>世卫组织每周150–300分钟中等强度有氧加两天力量训练的基准；谈话测试与主观用力感觉判断强度；渐进超负荷、恢复与肌少症；最低标准与习惯设计；今天的小行动：快走十分钟并做一次基线测试。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep006.mp3" length="4521364" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep006</guid>
+    <pubDate>Tue, 03 Nov 2026 22:32:59 GMT</pubDate>
+    <itunes:duration>00:09:25</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第5课 健康饮食：能量、质量与可坚持的习惯</title>
     <description>健康饮食靠能量平衡、食物质量，以及蛋白质与纤维习惯，胜过追风潮的极端吃法。</description>
