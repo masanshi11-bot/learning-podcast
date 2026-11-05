@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Wed, 04 Nov 2026 22:42:28 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 22:33:04 GMT</lastBuildDate>
+  <item>
+    <title>第10课 科技：AI智能体，工具调用与多步规划</title>
+    <description>大模型通过工具调用进入行动空间；ReAct式推理—行动循环与多步规划；幻觉复合、权限风险与硬停止条件；何时该用智能体、何时该用固定工作流；今天小行动：为目标列工具与人工确认项。</description>
+    <itunes:summary>大模型通过工具调用进入行动空间；ReAct式推理—行动循环与多步规划；幻觉复合、权限风险与硬停止条件；何时该用智能体、何时该用固定工作流；今天小行动：为目标列工具与人工确认项。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep010.mp3" length="4949134" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep010</guid>
+    <pubDate>Thu, 05 Nov 2026 22:33:14 GMT</pubDate>
+    <itunes:duration>00:10:19</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第9课 区块链：以太坊与智能合约</title>
     <description>以太坊把区块链变成全球共享计算机；智能合约像自动售货机；DeFi与稳定币；燃料费与二层网络；合并后转向权益证明；The DAO事件与硬分叉；代码、预言机与授权三类风险；可组合性与风险传染；高收益从哪里来。</description>
