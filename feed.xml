@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Thu, 05 Nov 2026 22:33:04 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 22:33:36 GMT</lastBuildDate>
+  <item>
+    <title>第11课 人生规划：身份认同驱动的习惯与目标系统</title>
+    <description>行为改变三层：结果、过程、身份；每个行动是给身份投票；目标定方向、系统定进度；习惯叠加与环境设计；最小行动与中断后恢复；今天小行动：写身份句、两分钟习惯、改一处环境。</description>
+    <itunes:summary>行为改变三层：结果、过程、身份；每个行动是给身份投票；目标定方向、系统定进度；习惯叠加与环境设计；最小行动与中断后恢复；今天小行动：写身份句、两分钟习惯、改一处环境。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep011.mp3" length="4863509" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep011</guid>
+    <pubDate>Thu, 05 Nov 2026 22:33:47 GMT</pubDate>
+    <itunes:duration>00:10:08</itunes:duration>
+    <itunes:episode>11</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第10课 科技：AI智能体，工具调用与多步规划</title>
     <description>大模型通过工具调用进入行动空间；ReAct式推理—行动循环与多步规划；幻觉复合、权限风险与硬停止条件；何时该用智能体、何时该用固定工作流；今天小行动：为目标列工具与人工确认项。</description>
