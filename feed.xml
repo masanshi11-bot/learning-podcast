@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sat, 07 Nov 2026 22:35:15 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 22:42:19 GMT</lastBuildDate>
+  <item>
+    <title>第16课 区块链：稳定币——一块钱如何被锚住，又如何脱锚</title>
+    <description>第十六课，区块链。稳定币：一块钱是怎么被“锚”住的，又是怎么脱锚的。  你好，欢迎回到认知提升课。第二课我们讲了比特币怎么用工作量证明解决双花问题，私钥就是所有权；第九课讲了以太坊、智能合约和去中心化金融，也提到“高收益从哪来”这个关键问题。今天往下挖一层，讲整个链上金融里最常用、也最容易被误以为“…</description>
+    <itunes:summary>第十六课，区块链。稳定币：一块钱是怎么被“锚”住的，又是怎么脱锚的。  你好，欢迎回到认知提升课。第二课我们讲了比特币怎么用工作量证明解决双花问题，私钥就是所有权；第九课讲了以太坊、智能合约和去中心化金融，也提到“高收益从哪来”这个关键问题。今天往下挖一层，讲整个链上金融里最常用、也最容易被误以为“…</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep016.mp3" length="4820129" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep016</guid>
+    <pubDate>Sun, 08 Nov 2026 22:42:35 GMT</pubDate>
+    <itunes:duration>00:10:02</itunes:duration>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第15课 投资金融：亏损厌恶与处置效应</title>
     <description>前景理论：按得失去评价、亏损侧更陡（实验中位λ约2.25，非宇宙常数）；处置效应=早卖赢家、久抱输家；买入价是情绪锚非未来信息；再平衡与分账作纪律补丁；小行动=对极值仓位做现金重建测试。</description>
