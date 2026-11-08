@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sun, 08 Nov 2026 22:42:19 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 22:43:11 GMT</lastBuildDate>
+  <item>
+    <title>第17课 科技：检索增强生成（RAG）——让大模型先查资料再回答</title>
+    <description>第十七课，科技。检索增强生成：让大模型先查资料再回答。  你好，欢迎回到认知提升课。第三课我们讲了大模型本质上是在预测下一个词，Transformer靠注意力机制理解上下文，也讲了幻觉从哪来；第十课讲了AI智能体，模型可以调用工具、多步规划，而工具结果要当作不可信的数据。今天我们讲一个把这两课连起来…</description>
+    <itunes:summary>第十七课，科技。检索增强生成：让大模型先查资料再回答。  你好，欢迎回到认知提升课。第三课我们讲了大模型本质上是在预测下一个词，Transformer靠注意力机制理解上下文，也讲了幻觉从哪来；第十课讲了AI智能体，模型可以调用工具、多步规划，而工具结果要当作不可信的数据。今天我们讲一个把这两课连起来…</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep017.mp3" length="4795559" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep017</guid>
+    <pubDate>Sun, 08 Nov 2026 22:43:28 GMT</pubDate>
+    <itunes:duration>00:09:59</itunes:duration>
+    <itunes:episode>17</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第16课 区块链：稳定币——一块钱如何被锚住，又如何脱锚</title>
     <description>第十六课，区块链。稳定币：一块钱是怎么被“锚”住的，又是怎么脱锚的。  你好，欢迎回到认知提升课。第二课我们讲了比特币怎么用工作量证明解决双花问题，私钥就是所有权；第九课讲了以太坊、智能合约和去中心化金融，也提到“高收益从哪来”这个关键问题。今天往下挖一层，讲整个链上金融里最常用、也最容易被误以为“…</description>
