@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sun, 08 Nov 2026 22:43:11 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 22:34:25 GMT</lastBuildDate>
+  <item>
+    <title>第18课 人生规划：精力管理与深度工作——把最好的注意力留给最重要的事</title>
+    <description>深度工作与浮浅工作、注意力残留、打断的隐性代价、精力四维度与恢复、时间块/批量处理/环境设计/收工仪式，以及今天的60分钟深度时间小行动。</description>
+    <itunes:summary>深度工作与浮浅工作、注意力残留、打断的隐性代价、精力四维度与恢复、时间块/批量处理/环境设计/收工仪式，以及今天的60分钟深度时间小行动。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep018.mp3" length="4811702" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep018</guid>
+    <pubDate>Mon, 09 Nov 2026 22:34:43 GMT</pubDate>
+    <itunes:duration>00:10:01</itunes:duration>
+    <itunes:episode>18</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第17课 科技：检索增强生成（RAG）——让大模型先查资料再回答</title>
     <description>第十七课，科技。检索增强生成：让大模型先查资料再回答。  你好，欢迎回到认知提升课。第三课我们讲了大模型本质上是在预测下一个词，Transformer靠注意力机制理解上下文，也讲了幻觉从哪来；第十课讲了AI智能体，模型可以调用工具、多步规划，而工具结果要当作不可信的数据。今天我们讲一个把这两课连起来…</description>
