@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Mon, 09 Nov 2026 22:34:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 22:35:41 GMT</lastBuildDate>
+  <item>
+    <title>第19课 健康饮食：膳食纤维与血糖反应——同样的碳水，吃法不同</title>
+    <description>膳食纤维的两类与肠道发酵、柳叶刀2019荟萃分析、GI与血糖负荷、个体血糖差异、进餐顺序、完整食物与全谷物、饭后散步，以及估算纤维的小行动。</description>
+    <itunes:summary>膳食纤维的两类与肠道发酵、柳叶刀2019荟萃分析、GI与血糖负荷、个体血糖差异、进餐顺序、完整食物与全谷物、饭后散步，以及估算纤维的小行动。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep019.mp3" length="4851242" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep019</guid>
+    <pubDate>Mon, 09 Nov 2026 22:36:00 GMT</pubDate>
+    <itunes:duration>00:10:06</itunes:duration>
+    <itunes:episode>19</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第18课 人生规划：精力管理与深度工作——把最好的注意力留给最重要的事</title>
     <description>深度工作与浮浅工作、注意力残留、打断的隐性代价、精力四维度与恢复、时间块/批量处理/环境设计/收工仪式，以及今天的60分钟深度时间小行动。</description>
