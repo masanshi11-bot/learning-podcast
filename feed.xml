@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Wed, 11 Nov 2026 22:31:34 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 22:39:26 GMT</lastBuildDate>
+  <item>
+    <title>第24课 科技：推理模型与测试时计算——让模型先多想一会儿</title>
+    <description>科技第四轮：测试时计算；思维链（Wei等NeurIPS 2022）与自我一致性；OpenAI o1（2024-09-12）与AIME 2024：GPT-4o约12%、o1单次约74%、64次多数票约83%；DeepSeek-R1（2025-01-20）用可验证奖励做强化学习；图尔平2023思维链可能不忠实；斯内尔2024按难度分配计算；小行动=对比普通与推理模式。</description>
+    <itunes:summary>科技第四轮：测试时计算；思维链（Wei等NeurIPS 2022）与自我一致性；OpenAI o1（2024-09-12）与AIME 2024：GPT-4o约12%、o1单次约74%、64次多数票约83%；DeepSeek-R1（2025-01-20）用可验证奖励做强化学习；图尔平2023思维链可能不忠实；斯内尔2024按难度分配计算；小行动=对比普通与推理模式。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep024.mp3" length="4744868" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep024</guid>
+    <pubDate>Thu, 12 Nov 2026 22:39:50 GMT</pubDate>
+    <itunes:duration>00:09:53</itunes:duration>
+    <itunes:episode>24</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第23课 区块链：Layer 2与Rollup——把计算搬出去，把安全留在主链</title>
     <description>不可能三角；Rollup与数据可用性；乐观Rollup七天挑战期与零知识有效性证明；2024年Dencun升级EIP-4844 blob大幅降费、2025年Pectra扩容；中心化排序器、升级权限、跨链桥风险；L2BEAT阶段与四问清单。</description>
