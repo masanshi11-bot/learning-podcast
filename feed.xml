@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sat, 14 Nov 2026 22:36:14 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 22:35:23 GMT</lastBuildDate>
+  <item>
+    <title>第30课 区块链：预言机——智能合约怎样看见链下的世界</title>
+    <description>区块链第五轮：智能合约看不见链下世界，预言机把价格和事实送上链，数据错了也会被自动执行；资金池即时价格易被闪电贷扭曲，时间加权均价更稳但仍怕薄市场与过期数据；Chainlink用多数据源、多节点取中位数，二零二一年二月上线链下报告；二零二零年十一月二十六日Compound因Coinbase上DAI一度到1.30美元，清算人偿还8520万枚DAI，124个地址受影响，最大一笔偿还4620万枚，二零二一年六月改用Chainlink；二零二二年十月十一日芒果市场被操纵，CFTC起诉书称价格约0.04美元被推到约0.54美元、十三倍以上，借走约1.14亿美元；Chainalysis估计2022年41起预言机操纵损失约4.032亿美元；要分清报错与薄市场被推动后如实上报；五问=来源/汇总者/新鲜度/流动性/失败阀门；小行动=查一个协议的预言机说明并写五行答案。</description>
+    <itunes:summary>区块链第五轮：智能合约看不见链下世界，预言机把价格和事实送上链，数据错了也会被自动执行；资金池即时价格易被闪电贷扭曲，时间加权均价更稳但仍怕薄市场与过期数据；Chainlink用多数据源、多节点取中位数，二零二一年二月上线链下报告；二零二零年十一月二十六日Compound因Coinbase上DAI一度到1.30美元，清算人偿还8520万枚DAI，124个地址受影响，最大一笔偿还4620万枚，二零二一年六月改用Chainlink；二零二二年十月十一日芒果市场被操纵，CFTC起诉书称价格约0.04美元被推到约0.54美元、十三倍以上，借走约1.14亿美元；Chainalysis估计2022年41起预言机操纵损失约4.032亿美元；要分清报错与薄市场被推动后如实上报；五问=来源/汇总者/新鲜度/流动性/失败阀门；小行动=查一个协议的预言机说明并写五行答案。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep030.mp3" length="4761182" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep030</guid>
+    <pubDate>Sun, 15 Nov 2026 22:35:53 GMT</pubDate>
+    <itunes:duration>00:09:55</itunes:duration>
+    <itunes:episode>30</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第29课 投资金融：股权风险溢价——多出来的回报不是承诺</title>
     <description>投资金融第五轮：股权风险溢价是承担风险的补偿，不是对未来的承诺；瑞银2025《全球投资回报年鉴》（迪姆森、马什、斯汤顿）1900–2024全球股票年化真实收益约5.2%、债券约1.7%、短期票据约0.5%；美国1美元股票至2024年底名义约107409美元，年化名义约9.7%；2000年起全球股票真实年化约3.5%、相对票据溢价约4.3%；美国大回撤按购买力恢复可达十余年；小行动=用5.2%与3.5%真实收益做压力测试，并检查能否拿住长期回撤。</description>
