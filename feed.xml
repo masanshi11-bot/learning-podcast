@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sun, 15 Nov 2026 22:35:23 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 22:36:30 GMT</lastBuildDate>
+  <item>
+    <title>第31课 科技：上下文工程——给模型刚好够用的信息</title>
+    <description>科技第五轮：上下文工程是把刚好合适的信息填进窗口供下一步使用，窗口变长不等于能均匀用好每一段；二零二五年吕特克与卡帕西倡导这一说法，模型像处理器、窗口像内存；刘等人二零二三年《迷失在中间》呈U形曲线，关键文档放在中间时GPT-3.5表现甚至低于闭卷的56.1%；Chroma二零二五年七月十四日《上下文腐烂》测试18个模型（含GPT-4.1、Claude 4、Gemini 2.5、Qwen3），加长输入后表现更不稳定，完整对话约11.3万词元明显差于约300词元的精简版，思考模式缩小但未抹平差距，干扰信息会叠加，打乱结构反而更好；布鲁尼格归纳投毒、分心、混淆、冲突四类失败；做法=写清楚/挑选/压缩/隔离，重要材料放开头或结尾；小行动=同一问题对比长材料与精简材料并核对出处。</description>
+    <itunes:summary>科技第五轮：上下文工程是把刚好合适的信息填进窗口供下一步使用，窗口变长不等于能均匀用好每一段；二零二五年吕特克与卡帕西倡导这一说法，模型像处理器、窗口像内存；刘等人二零二三年《迷失在中间》呈U形曲线，关键文档放在中间时GPT-3.5表现甚至低于闭卷的56.1%；Chroma二零二五年七月十四日《上下文腐烂》测试18个模型（含GPT-4.1、Claude 4、Gemini 2.5、Qwen3），加长输入后表现更不稳定，完整对话约11.3万词元明显差于约300词元的精简版，思考模式缩小但未抹平差距，干扰信息会叠加，打乱结构反而更好；布鲁尼格归纳投毒、分心、混淆、冲突四类失败；做法=写清楚/挑选/压缩/隔离，重要材料放开头或结尾；小行动=同一问题对比长材料与精简材料并核对出处。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep031.mp3" length="4776152" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep031</guid>
+    <pubDate>Sun, 15 Nov 2026 22:37:01 GMT</pubDate>
+    <itunes:duration>00:09:57</itunes:duration>
+    <itunes:episode>31</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第30课 区块链：预言机——智能合约怎样看见链下的世界</title>
     <description>区块链第五轮：智能合约看不见链下世界，预言机把价格和事实送上链，数据错了也会被自动执行；资金池即时价格易被闪电贷扭曲，时间加权均价更稳但仍怕薄市场与过期数据；Chainlink用多数据源、多节点取中位数，二零二一年二月上线链下报告；二零二零年十一月二十六日Compound因Coinbase上DAI一度到1.30美元，清算人偿还8520万枚DAI，124个地址受影响，最大一笔偿还4620万枚，二零二一年六月改用Chainlink；二零二二年十月十一日芒果市场被操纵，CFTC起诉书称价格约0.04美元被推到约0.54美元、十三倍以上，借走约1.14亿美元；Chainalysis估计2022年41起预言机操纵损失约4.032亿美元；要分清报错与薄市场被推动后如实上报；五问=来源/汇总者/新鲜度/流动性/失败阀门；小行动=查一个协议的预言机说明并写五行答案。</description>
