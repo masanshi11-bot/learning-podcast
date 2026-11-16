@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sun, 15 Nov 2026 22:36:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 22:37:28 GMT</lastBuildDate>
+  <item>
+    <title>第32课 人生规划：计划是假说——用新证据校准，而不是一条路走到黑</title>
+    <description>人生规划第五轮：计划是假说不是誓言，要用新证据校准；卡尼曼与特沃斯基提出计划谬误；比勒等一九九四年《人格与社会心理学杂志》三十七名滑铁卢荣誉论文学生，最准估计平均三十三点九天、实际五十五点五天，仅百分之二十九点七按时完成，悲观估计四十八点六天仍只有百分之四十八点七赶上；弗莱维伯格等二零零二年《美国规划协会杂志》二百五十八个交通项目，百分之八十六实际成本高于估算、平均高百分之二十八；梅勒斯与泰特洛克等二零一五年，超级预测者第一年每题平均更新二点七七次，对照约一点五一和一点四三次；做法=外部视角/参照类、写下假设、预定检查点与调整规则；小行动=三条假设+两周检查信号+对照旧例子。</description>
+    <itunes:summary>人生规划第五轮：计划是假说不是誓言，要用新证据校准；卡尼曼与特沃斯基提出计划谬误；比勒等一九九四年《人格与社会心理学杂志》三十七名滑铁卢荣誉论文学生，最准估计平均三十三点九天、实际五十五点五天，仅百分之二十九点七按时完成，悲观估计四十八点六天仍只有百分之四十八点七赶上；弗莱维伯格等二零零二年《美国规划协会杂志》二百五十八个交通项目，百分之八十六实际成本高于估算、平均高百分之二十八；梅勒斯与泰特洛克等二零一五年，超级预测者第一年每题平均更新二点七七次，对照约一点五一和一点四三次；做法=外部视角/参照类、写下假设、预定检查点与调整规则；小行动=三条假设+两周检查信号+对照旧例子。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep032.mp3" length="4668080" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep032</guid>
+    <pubDate>Mon, 16 Nov 2026 22:38:00 GMT</pubDate>
+    <itunes:duration>00:09:43</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第31课 科技：上下文工程——给模型刚好够用的信息</title>
     <description>科技第五轮：上下文工程是把刚好合适的信息填进窗口供下一步使用，窗口变长不等于能均匀用好每一段；二零二五年吕特克与卡帕西倡导这一说法，模型像处理器、窗口像内存；刘等人二零二三年《迷失在中间》呈U形曲线，关键文档放在中间时GPT-3.5表现甚至低于闭卷的56.1%；Chroma二零二五年七月十四日《上下文腐烂》测试18个模型（含GPT-4.1、Claude 4、Gemini 2.5、Qwen3），加长输入后表现更不稳定，完整对话约11.3万词元明显差于约300词元的精简版，思考模式缩小但未抹平差距，干扰信息会叠加，打乱结构反而更好；布鲁尼格归纳投毒、分心、混淆、冲突四类失败；做法=写清楚/挑选/压缩/隔离，重要材料放开头或结尾；小行动=同一问题对比长材料与精简材料并核对出处。</description>
