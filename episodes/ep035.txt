@@ -16,7 +16,11 @@
 
 我们用一个工作中可能遇到的场景练一下，下面是我随手编的示例句子，不代表任何真实研究。原句是：A statistically significant improvement, which was observed in patients who had received at least two prior lines of therapy and who were enrolled in the second cohort, in progression-free survival was reported. 这句话的主语是 improvement，动词 was reported 却要等到最后，中间隔了二十多个词，结尾还落在一个没有信息量的 reported 上。改一下：In the second cohort, patients who had received at least two prior lines of therapy had longer progression-free survival. 开头先给读者熟悉的语境，第二组；主语后面很快接上动词；结尾落在真正的新信息，无进展生存期更长。还记得第二十八课说过，significant 只是统计学显著，不等于临床上重要，所以写作时，与其堆一个 significant，不如直接写清楚差多少、在谁身上。
 
+我们再用中文感受一下这条链条，因为原理在中文里同样成立。比如一段话这样写：上周我们完成了第一批数据清理。清理后的数据里，有三个中心的随访记录不完整。这三个中心，下周需要补交原始病历。你会发现，每句话的开头，都是上一句结尾刚刚出现的东西：数据清理、清理后的数据、这三个中心。读者几乎不用回头找。反过来，如果写成：下周需要补交原始病历的是三个中心，随访记录不完整的问题出现在清理后的数据里，第一批数据清理上周我们完成了。信息一样，读起来却像在倒着爬楼梯。英文也是同样的道理，只是英文的句子更长、从句更多，结构一乱，代价更大。
+
 再给两个顺手的小技巧。第一，少用名词化。make an assessment of 可以直接写 assess，conduct an analysis of 可以写 analyze。动词藏在名词里，句子就会变长变虚。第二，一句只干一件事。如果一句话里有两个同等重要的新信息，就拆成两句，或者用分号，让每一部分都有自己的结尾可以落重点。
+
+从句子再放大到整封邮件，道理也是一样的：读者在开头期待知道这封邮件和他有什么关系，在结尾期待知道下一步要做什么。所以工作邮件可以试试这个顺序：第一句说清楚目的，比如 I am writing to confirm the timeline for the second data cut；中间给必要的背景和理由，每段一个要点；最后一句落在明确的请求和时间上，比如 Could you confirm by Friday whether this works for your team? 很多人习惯先铺垫很长的背景，把请求藏在第三段中间，对方读完还要再翻回去找。把请求放到读者期待重点的地方，回复往往也会更快、更准。
 
 最后说说怎样用人工智能帮忙。让模型直接替你改写，当然很快，但你学到的东西很少。更好的做法是：先自己按今天的三条原则改一遍，再让模型指出哪几句的开头没有接上上一句、哪几句的重点没有放在结尾，并要求它解释原因。你听完解释再动手改第二遍。这就是我们第十四课讲的反馈闭环：输出、发现缺口、带着问题回去修正。
 
