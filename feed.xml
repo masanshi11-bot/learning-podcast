@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Wed, 18 Nov 2026 22:34:31 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 22:35:32 GMT</lastBuildDate>
+  <item>
+    <title>第37课 区块链：跨链桥——资产跨过去，安全却不一定跟着走</title>
+    <description>跨链常见做法是锁定并铸造，对岸拿到的往往是欠条；安全性取决于桥的放行规则、多签钥匙和合约，而不等于主链本身。二零二二年三月二十三日Ronin桥被盗十七万三千六百枚以太币和两千五百五十万枚美元稳定币，九个验证者中五把钥匙被拿到；二月Wormhole因合约漏洞被铸造十二万枚无抵押包装以太币，当时价值超过三点二亿美元。同年八月Chainalysis估计十三起桥攻击累计约二十亿美元。小行动=为一座桥写下五问的答案。</description>
+    <itunes:summary>跨链常见做法是锁定并铸造，对岸拿到的往往是欠条；安全性取决于桥的放行规则、多签钥匙和合约，而不等于主链本身。二零二二年三月二十三日Ronin桥被盗十七万三千六百枚以太币和两千五百五十万枚美元稳定币，九个验证者中五把钥匙被拿到；二月Wormhole因合约漏洞被铸造十二万枚无抵押包装以太币，当时价值超过三点二亿美元。同年八月Chainalysis估计十三起桥攻击累计约二十亿美元。小行动=为一座桥写下五问的答案。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep037.mp3" length="4565348" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep037</guid>
+    <pubDate>Wed, 18 Nov 2026 22:36:09 GMT</pubDate>
+    <itunes:duration>00:09:31</itunes:duration>
+    <itunes:episode>37</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第36课 投资金融：久期——利率一动，债券价格为什么会跳</title>
     <description>债券价格与利率反向变动；麦考利久期是现金流的加权平均收回时间，修正久期近似衡量收益率变动一个百分点时的价格变化；十年期百分之三平价债券修正久期约八点五年；二零二二年彭博美国综合债券指数总回报负百分之十三点零一，为编制以来最差日历年；长久期国债基金约跌百分之三十一；要分清持有到期与债券基金；小行动=查说明书里的久期并估算利率上升一个百分点的跌幅。</description>
