@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Wed, 18 Nov 2026 22:35:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 22:51:05 GMT</lastBuildDate>
+  <item>
+    <title>第38课 科技：榜单上的高分，不等于模型真的变强了</title>
+    <description>公开榜单分数变高，不等于模型在你的真实任务上变强了。苹果公司米尔扎德等人的GSM-Symbolic显示，只改数字或加入无关信息，成绩就会下降；LiveBench用按月更新的客观题避开污染，当时总分无人超过百分之七十，用模型当评委的错误率最高达百分之四十六；《榜单错觉》指出私下测试和选择性报告会扭曲对战榜。小行动=用八到十道自己知道答案的题对比两个模型。</description>
+    <itunes:summary>公开榜单分数变高，不等于模型在你的真实任务上变强了。苹果公司米尔扎德等人的GSM-Symbolic显示，只改数字或加入无关信息，成绩就会下降；LiveBench用按月更新的客观题避开污染，当时总分无人超过百分之七十，用模型当评委的错误率最高达百分之四十六；《榜单错觉》指出私下测试和选择性报告会扭曲对战榜。小行动=用八到十道自己知道答案的题对比两个模型。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep038.mp3" length="4607960" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep038</guid>
+    <pubDate>Thu, 19 Nov 2026 22:51:43 GMT</pubDate>
+    <itunes:duration>00:09:36</itunes:duration>
+    <itunes:episode>38</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第37课 区块链：跨链桥——资产跨过去，安全却不一定跟着走</title>
     <description>跨链常见做法是锁定并铸造，对岸拿到的往往是欠条；安全性取决于桥的放行规则、多签钥匙和合约，而不等于主链本身。二零二二年三月二十三日Ronin桥被盗十七万三千六百枚以太币和两千五百五十万枚美元稳定币，九个验证者中五把钥匙被拿到；二月Wormhole因合约漏洞被铸造十二万枚无抵押包装以太币，当时价值超过三点二亿美元。同年八月Chainalysis估计十三起桥攻击累计约二十亿美元。小行动=为一座桥写下五问的答案。</description>
