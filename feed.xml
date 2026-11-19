@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Thu, 19 Nov 2026 22:51:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 22:51:15 GMT</lastBuildDate>
+  <item>
+    <title>第39课 人生规划：别用结果，反推决策好不好</title>
+    <description>用已经发生的结果反推决策质量，是结果偏差（resulting）。第四十九届超级碗海鹰队在一码线传球被抄截后被称作史上最差战术，但决定发生在结果之前；巴伦和赫尔希一九八八年五项研究发现，即使概率写明、信息相同，好结果仍会让人对决策质量打出更高分。小行动=把当时信息、过程与结果分成三栏记录。</description>
+    <itunes:summary>用已经发生的结果反推决策质量，是结果偏差（resulting）。第四十九届超级碗海鹰队在一码线传球被抄截后被称作史上最差战术，但决定发生在结果之前；巴伦和赫尔希一九八八年五项研究发现，即使概率写明、信息相同，好结果仍会让人对决策质量打出更高分。小行动=把当时信息、过程与结果分成三栏记录。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep039.mp3" length="4722959" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep039</guid>
+    <pubDate>Thu, 19 Nov 2026 22:51:54 GMT</pubDate>
+    <itunes:duration>00:09:50</itunes:duration>
+    <itunes:episode>39</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第38课 科技：榜单上的高分，不等于模型真的变强了</title>
     <description>公开榜单分数变高，不等于模型在你的真实任务上变强了。苹果公司米尔扎德等人的GSM-Symbolic显示，只改数字或加入无关信息，成绩就会下降；LiveBench用按月更新的客观题避开污染，当时总分无人超过百分之七十，用模型当评委的错误率最高达百分之四十六；《榜单错觉》指出私下测试和选择性报告会扭曲对战榜。小行动=用八到十道自己知道答案的题对比两个模型。</description>
