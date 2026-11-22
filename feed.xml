@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sun, 22 Nov 2026 22:33:09 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 22:34:10 GMT</lastBuildDate>
+  <item>
+    <title>第45课 科技：提示注入——模型分不清哪句是指令、哪句是数据</title>
+    <description>科技第七轮：大模型不能可靠区分指令与资料，网页和邮件里的文字也可能改写其行为，这称为提示注入。古德赛德二零二二年九月十一日演示翻译任务被输入中的新要求带走，威利森次日以此命名并对照SQL注入；格雷沙克等人二零二三年提出间接提示注入，并在必应聊天助手等产品上演示。开放全球应用安全项目二零二五年将提示注入列为大模型风险第一项LLM01。威利森二零二五年六月十六日提出致命三位一体：私有数据、不可信内容和对外通信同时具备时风险叠加。小行动=为常用工具写下三列，并给自动外发加上确认。</description>
+    <itunes:summary>科技第七轮：大模型不能可靠区分指令与资料，网页和邮件里的文字也可能改写其行为，这称为提示注入。古德赛德二零二二年九月十一日演示翻译任务被输入中的新要求带走，威利森次日以此命名并对照SQL注入；格雷沙克等人二零二三年提出间接提示注入，并在必应聊天助手等产品上演示。开放全球应用安全项目二零二五年将提示注入列为大模型风险第一项LLM01。威利森二零二五年六月十六日提出致命三位一体：私有数据、不可信内容和对外通信同时具备时风险叠加。小行动=为常用工具写下三列，并给自动外发加上确认。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep045.mp3" length="4636199" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep045</guid>
+    <pubDate>Sun, 22 Nov 2026 22:34:55 GMT</pubDate>
+    <itunes:duration>00:09:39</itunes:duration>
+    <itunes:episode>45</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第44课 区块链：最大可提取价值——排序权里藏着隐形成本</title>
     <description>区块链第七轮：最大可提取价值（MEV）是指出块时通过调整交易顺序，从普通成交里抽取的价值。工作量证明时代称矿工可提取价值，合并后由验证者排序，改称最大可提取价值。戴安等人二零二零年《闪电侠2.0》提出这一概念，并对当时可量化的纯收益套利给出超过六百万美元的下界；Flashbots二零二一年二月二十二日发布MEV-Explore，自二零二零年一月一日起测得至少三点一四亿美元的已提取价值，当时尚未计入夹心交易。套利和清算有校正作用，夹心会恶化成交价。小行动=检查滑点与是否支持私有提交。</description>
