@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sat, 21 Nov 2026 22:37:34 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 22:33:09 GMT</lastBuildDate>
+  <item>
+    <title>第44课 区块链：最大可提取价值——排序权里藏着隐形成本</title>
+    <description>区块链第七轮：最大可提取价值（MEV）是指出块时通过调整交易顺序，从普通成交里抽取的价值。工作量证明时代称矿工可提取价值，合并后由验证者排序，改称最大可提取价值。戴安等人二零二零年《闪电侠2.0》提出这一概念，并对当时可量化的纯收益套利给出超过六百万美元的下界；Flashbots二零二一年二月二十二日发布MEV-Explore，自二零二零年一月一日起测得至少三点一四亿美元的已提取价值，当时尚未计入夹心交易。套利和清算有校正作用，夹心会恶化成交价。小行动=检查滑点与是否支持私有提交。</description>
+    <itunes:summary>区块链第七轮：最大可提取价值（MEV）是指出块时通过调整交易顺序，从普通成交里抽取的价值。工作量证明时代称矿工可提取价值，合并后由验证者排序，改称最大可提取价值。戴安等人二零二零年《闪电侠2.0》提出这一概念，并对当时可量化的纯收益套利给出超过六百万美元的下界；Flashbots二零二一年二月二十二日发布MEV-Explore，自二零二零年一月一日起测得至少三点一四亿美元的已提取价值，当时尚未计入夹心交易。套利和清算有校正作用，夹心会恶化成交价。小行动=检查滑点与是否支持私有提交。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep044.mp3" length="4788065" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep044</guid>
+    <pubDate>Sun, 22 Nov 2026 22:33:53 GMT</pubDate>
+    <itunes:duration>00:09:58</itunes:duration>
+    <itunes:episode>44</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第43课 投资金融：主动基金的成绩单——长期跑赢指数为什么难</title>
     <description>投资金融第七轮：主动管理要在扣除费用后持续跑赢基准。标普道琼斯指数SPIVA美国年中成绩单截至二零二六年六月三十日，主动大型股基金上半年百分之六十七点一八落后于标普五百，二十年百分之九十二点六一；全部美股主动基金二十年百分之九十四点八九；成绩单校正存活偏差、按扣费后回报计算。二零二五年年终持续性成绩单：当年百分之七十九落后，二零二一年中位数以上的大型股主动基金到二零二五年仍持续留在中位数以上的仅百分之四点五。小行动=抄管理费率并对照基准的五年或十年净回报。</description>
