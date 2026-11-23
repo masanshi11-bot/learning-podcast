@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Sun, 22 Nov 2026 22:34:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 22:38:37 GMT</lastBuildDate>
+  <item>
+    <title>第46课 人生规划：把判断写成概率，结果出来之前先留下证据</title>
+    <description>人生规划第七轮：更好的下注不是保证赢，而是把判断写成概率，并在结果出现之前留下证据以便校准。费施霍夫、斯洛维奇和利希滕斯坦一九七七年：三百六十一名俄勒冈大学志愿者，标成百分之百确定的回答仍错大约两成；典型校准曲线里，自称七成把握实际约六成、九成把握实际约七成五。科里亚特等人一九八零年两项实验：先写下正反理由可改善校准，二百人的第二项实验里真正起作用的是写出一条反对理由。小行动=为三件未揭晓的事写下概率、支持理由和一条反面理由。</description>
+    <itunes:summary>人生规划第七轮：更好的下注不是保证赢，而是把判断写成概率，并在结果出现之前留下证据以便校准。费施霍夫、斯洛维奇和利希滕斯坦一九七七年：三百六十一名俄勒冈大学志愿者，标成百分之百确定的回答仍错大约两成；典型校准曲线里，自称七成把握实际约六成、九成把握实际约七成五。科里亚特等人一九八零年两项实验：先写下正反理由可改善校准，二百人的第二项实验里真正起作用的是写出一条反对理由。小行动=为三件未揭晓的事写下概率、支持理由和一条反面理由。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep046.mp3" length="4713380" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep046</guid>
+    <pubDate>Mon, 23 Nov 2026 22:39:23 GMT</pubDate>
+    <itunes:duration>00:09:49</itunes:duration>
+    <itunes:episode>46</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第45课 科技：提示注入——模型分不清哪句是指令、哪句是数据</title>
     <description>科技第七轮：大模型不能可靠区分指令与资料，网页和邮件里的文字也可能改写其行为，这称为提示注入。古德赛德二零二二年九月十一日演示翻译任务被输入中的新要求带走，威利森次日以此命名并对照SQL注入；格雷沙克等人二零二三年提出间接提示注入，并在必应聊天助手等产品上演示。开放全球应用安全项目二零二五年将提示注入列为大模型风险第一项LLM01。威利森二零二五年六月十六日提出致命三位一体：私有数据、不可信内容和对外通信同时具备时风险叠加。小行动=为常用工具写下三列，并给自动外发加上确认。</description>
