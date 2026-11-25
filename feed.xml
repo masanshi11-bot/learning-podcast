@@ -14,7 +14,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>serial</itunes:type>
   <itunes:block>yes</itunes:block>
-  <lastBuildDate>Wed, 25 Nov 2026 22:40:42 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 22:41:28 GMT</lastBuildDate>
+  <item>
+    <title>第51课 区块链：自动做市商——价格由公式算出，无常损失从哪来</title>
+    <description>许多去中心化交易所没有订单簿，交易是跟资金池按恒定乘积公式x乘以y等于k兑换。亚当斯二零一八年推出Uniswap第一版，二零二零年三月第二版白皮书（亚当斯、津斯迈斯特、罗宾逊）仍用同一公式，手续费千分之三归流动性提供者。大额兑换会有价格冲击，与第四十四课夹心交易相连；提供流动性会在价格大涨后少拿涨的资产。自算：价格翻倍时相对只持有约少百分之五点七二，五倍时约百分之二十五点五。小行动=写下池子的两种代币与手续费，或亲手验算翻倍后的差距。</description>
+    <itunes:summary>许多去中心化交易所没有订单簿，交易是跟资金池按恒定乘积公式x乘以y等于k兑换。亚当斯二零一八年推出Uniswap第一版，二零二零年三月第二版白皮书（亚当斯、津斯迈斯特、罗宾逊）仍用同一公式，手续费千分之三归流动性提供者。大额兑换会有价格冲击，与第四十四课夹心交易相连；提供流动性会在价格大涨后少拿涨的资产。自算：价格翻倍时相对只持有约少百分之五点七二，五倍时约百分之二十五点五。小行动=写下池子的两种代币与手续费，或亲手验算翻倍后的差距。</itunes:summary>
+    <enclosure url="https://masanshi11-bot.github.io/learning-podcast/episodes/ep051.mp3" length="4819370" type="audio/mpeg"/>
+    <guid isPermaLink="false">learning-podcast-ep051</guid>
+    <pubDate>Wed, 25 Nov 2026 22:42:19 GMT</pubDate>
+    <itunes:duration>00:10:02</itunes:duration>
+    <itunes:episode>51</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>第50课 投资金融：再平衡——组合会自己跑偏，要按规则把比例调回来</title>
     <description>再平衡的首要目标是把风险拉回目标配置，而不是追求最高回报。先锋集团杰科内蒂、金尼里和齐尔贝林二零一零年报告，用一九二六年至二零零九年美国股债数据回测六成股票四成债券：每月再平衡年化回报百分之八点五、波动百分之十二点一，每年百分之八点六和十一点九，从不调仓则平均股票仓位超过百分之八十四、回报百分之九点一、波动百分之十四点四；建议每年或每半年检查、偏离百分之五再调。小行动=写下目标比例与触发规则，能用新储蓄补仓就先不卖。</description>
